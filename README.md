@@ -1,7 +1,7 @@
 bigartm_metrics
 ==============================
 
-A short description of the project.
+Research on topic modeling evaluation metrics.
 
 Project Organization
 ------------
